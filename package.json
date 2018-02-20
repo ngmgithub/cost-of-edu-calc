@@ -1,0 +1,15 @@
+{
+  "name": "cost-of-edu-calc",
+  "version": "1.0.0",
+  "description": "Tool to calculate true cost of education.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cost-of-edu-calc"
+  },
+  "author": "Nathan Meryash",
+  "license": "ISC"
+}
